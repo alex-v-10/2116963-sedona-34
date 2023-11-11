@@ -5,6 +5,8 @@
 
 ---
 
+[gh-pages](https://alex-v-10.github.io/2116963-sedona-34/)
+
 Html, css, фиксированная верстка
 
 ---
